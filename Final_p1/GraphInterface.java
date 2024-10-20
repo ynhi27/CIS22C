@@ -1,0 +1,1 @@
+package Final_p1;/** * Yue-Hsi Cheng, Huong Doan, Y Nhi Tran, Travis Huang * Professor Abolghasemi * CIS 22C * June 25th, 2023 */public interface GraphInterface<T> extends BasicGraphInterface<T>,                                            GraphAlgorithmsInterface<T>{} // end GraphInterface

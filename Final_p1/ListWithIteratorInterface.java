@@ -1,0 +1,1 @@
+package Final_p1;import java.util.Iterator;/** * Yue-Hsi Cheng, Huong Doan, Y Nhi Tran, Travis Huang * Professor Abolghasemi * CIS 22C * June 25th, 2023 */public interface ListWithIteratorInterface<T> extends ListInterface<T>, Iterable<T>{   public Iterator<T> getIterator();} // end ListWithIteratorInterface
